@@ -1,0 +1,111 @@
+timestamp,message
+1762782083457,"INIT_START Runtime Version: python:3.10.v97	Runtime Version ARN: arn:aws:lambda:eu-west-3::runtime:5d2691e4bfb199198ccc7f6a9e1814af975e41c0ada3f1d7ec7bfc338ed6202a
+"
+1762782084159,"START RequestId: 026911eb-6c09-402c-b7bb-b6ac0cd52565 Version: $LATEST
+"
+1762782088431,"Posts procesados y listos para carga: 1
+"
+1762782088431,"Posts procesados y listos para carga: 2
+"
+1762782088432,"Posts procesados y listos para carga: 3
+"
+1762782088432,"Posts procesados y listos para carga: 4
+"
+1762782088432,"Posts procesados y listos para carga: 5
+"
+1762782088432,"Posts procesados y listos para carga: 6
+"
+1762782088432,"Posts procesados y listos para carga: 7
+"
+1762782088432,"Posts procesados y listos para carga: 8
+"
+1762782088433,"Posts procesados y listos para carga: 9
+"
+1762782088433,"Posts procesados y listos para carga: 10
+"
+1762782088433,"Posts procesados y listos para carga: 11
+"
+1762782088433,"Posts procesados y listos para carga: 12
+"
+1762782088433,"Posts procesados y listos para carga: 13
+"
+1762782088433,"Posts procesados y listos para carga: 14
+"
+1762782088433,"Posts procesados y listos para carga: 15
+"
+1762782088433,"Posts procesados y listos para carga: 16
+"
+1762782088433,"Posts procesados y listos para carga: 17
+"
+1762782088434,"Posts procesados y listos para carga: 18
+"
+1762782088434,"Posts procesados y listos para carga: 19
+"
+1762782088490,"Posts procesados y listos para carga: 20
+"
+1762782088491,"Posts procesados y listos para carga: 21
+"
+1762782088491,"Posts procesados y listos para carga: 22
+"
+1762782088491,"Posts procesados y listos para carga: 23
+"
+1762782088491,"Posts procesados y listos para carga: 24
+"
+1762782088491,"Posts procesados y listos para carga: 25
+"
+1762782088491,"Posts procesados y listos para carga: 26
+"
+1762782088491,"Posts procesados y listos para carga: 27
+"
+1762782088492,"Posts procesados y listos para carga: 28
+"
+1762782088492,"Posts procesados y listos para carga: 29
+"
+1762782088492,"Posts procesados y listos para carga: 30
+"
+1762782088492,"Posts procesados y listos para carga: 31
+"
+1762782088492,"Posts procesados y listos para carga: 32
+"
+1762782088493,"Posts procesados y listos para carga: 33
+"
+1762782088493,"Posts procesados y listos para carga: 34
+"
+1762782088493,"Posts procesados y listos para carga: 35
+"
+1762782088493,"Posts procesados y listos para carga: 36
+"
+1762782088493,"Posts procesados y listos para carga: 37
+"
+1762782088493,"Posts procesados y listos para carga: 38
+"
+1762782088493,"Posts procesados y listos para carga: 39
+"
+1762782088494,"Posts procesados y listos para carga: 40
+"
+1762782088494,"Posts procesados y listos para carga: 41
+"
+1762782088550,"Posts procesados y listos para carga: 42
+"
+1762782088550,"Posts procesados y listos para carga: 43
+"
+1762782088551,"Posts procesados y listos para carga: 44
+"
+1762782088551,"Posts procesados y listos para carga: 45
+"
+1762782088551,"Posts procesados y listos para carga: 46
+"
+1762782088551,"Posts procesados y listos para carga: 47
+"
+1762782088551,"Posts procesados y listos para carga: 48
+"
+1762782088552,"Posts procesados y listos para carga: 49
+"
+1762782088552,"Posts procesados y listos para carga: 50
+"
+1762782088911,"Carga exitosa a DynamoDB: 50 elementos.
+"
+1762782088951,"END RequestId: 026911eb-6c09-402c-b7bb-b6ac0cd52565
+"
+1762782088951,"REPORT RequestId: 026911eb-6c09-402c-b7bb-b6ac0cd52565	Duration: 4791.89 ms	Billed Duration: 5491 ms	Memory Size: 128 MB	Max Memory Used: 101 MB	Init Duration: 698.52 ms	
+"
